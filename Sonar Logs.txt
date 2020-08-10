@@ -1,0 +1,86 @@
++ /opt/sonar-scanner-3.2.0.1227-linux/bin/sonar-scanner -Dsonar.projectVersion=156 -Dsonar.projectKey=sa.gov.gosi.si:gosi-ui -Dsonar.sourceEncoding=UTF-8 -Dsonar.sources=gosi-ui/apps/establishment-public,gosi-ui/apps/establishment-private,gosi-ui/libs -Dsonar.tests=gosi-ui/apps/establishment-public/src,gosi-ui/apps/establishment-private/src,gosi-ui/libs/core/src,gosi-ui/libs/foundation/theme/src,gosi-ui/libs/foundation/dashboard/src,gosi-ui/libs/foundation/inbox/src,gosi-ui/libs/foundation/transaction-tracing/src,gosi-ui/libs/features/registration/contributor/src,gosi-ui/libs/features/collection/billing/src,gosi-ui/libs/features/customer-information/src,gosi-ui/libs/features/occupational-hazard/src,gosi-ui/libs/features/contributor/src,gosi-ui/libs/features/establishment/src '-Dsonar.test.inclusions=gosi-ui/apps/**/*.spec.ts,gosi-ui/libs/**/*.spec.ts' -Dsonar.testExecutionReportPaths=gosi-ui/reports/libs/core/ut-report.xml,gosi-ui/reports/libs/foundation/theme/ut-report.xml,gosi-ui/reports/libs/foundation/inbox/ut-report.xml,gosi-ui/reports/libs/foundation/dashboard/ut-report.xml,gosi-ui/reports/libs/foundation/transaction-tracing/ut-report.xml,gosi-ui/reports/libs/features/registration/contributor/ut-report.xml,gosi-ui/reports/libs/features/collection/billing/ut-report.xml,gosi-ui/reports/libs/features/customer-information/ut-report.xml,gosi-ui/reports/libs/features/occupational-hazard/ut-report.xml,gosi-ui/reports/libs/features/contributor/ut-report.xml,gosi-ui/reports/libs/features/establishment/ut-report.xml -Dsonar.typescript.tslint.reportPaths=gosi-ui/code-smells/establishment-public.json,gosi-ui/code-smells/establishment-private.json,gosi-ui/code-smells/core.json,gosi-ui/code-smells/foundation-theme.json,gosi-ui/code-smells/foundation-inbox.json,gosi-ui/code-smells/foundation-dashboard.json,gosi-ui/code-smells/foundation-transaction-tracing.json,gosi-ui/code-smells/features-customer-information.json,gosi-ui/code-smells/features-collection-billing.json,gosi-ui/code-smells/features-registration-contributor.json,gosi-ui/code-smells/features-occupational-hazard.json,gosi-ui/code-smells/features-establishment.json,gosi-ui/code-smells/features-contributor.json -Dsonar.typescript.lcov.reportPaths=gosi-ui/coverage/libs/core/lcov.info,gosi-ui/coverage/libs/foundation/theme/lcov.info,gosi-ui/coverage/libs/foundation/dashboard/lcov.info,gosi-ui/coverage/libs/foundation/inbox/lcov.info,gosi-ui/coverage/libs/foundation/transaction-tracing/lcov.info,gosi-ui/coverage/libs/features/registration/contributor/lcov.info,gosi-ui/coverage/libs/features/collection/billing/lcov.info,gosi-ui/coverage/libs/features/customer-information/lcov.info,gosi-ui/coverage/libs/features/occupational-hazard/lcov.info,gosi-ui/coverage/libs/features/contributor/lcov.info,gosi-ui/coverage/libs/features/establishment/lcov.info -Dsonar.typescript.tsconfigPath=gosi-ui/tsconfig.json -Dsonar.projectBaseDir=. -Dsonar.branch.name=feature_277264
+INFO: Scanner configuration file: /opt/sonar-scanner-3.2.0.1227-linux/conf/sonar-scanner.properties
+INFO: Project root configuration file: NONE
+INFO: SonarQube Scanner 3.2.0.1227
+INFO: Java 1.8.0_121 Oracle Corporation (64-bit)
+INFO: Linux 4.1.12-94.3.9.el7uek.x86_64 amd64
+INFO: User cache: /home/arcosuser2/.sonar/cache
+INFO: SonarQube server 8.3.1
+INFO: Default locale: "en_US", source code encoding: "UTF-8"
+WARN: SonarScanner will require Java 11 to run starting in SonarQube 8.x
+INFO: Load global settings
+INFO: Load global settings (done) | time=176ms
+INFO: Server id: 6CDBE852-AWabjFJnZ7WAZUCgUVtL
+INFO: User cache: /home/arcosuser2/.sonar/cache
+INFO: Load/download plugins
+INFO: Load plugins index
+INFO: Load plugins index (done) | time=67ms
+INFO: Load/download plugins (done) | time=240ms
+INFO: Loaded core extensions: developer-scanner
+INFO: Process project properties
+INFO: Process project properties (done) | time=13ms
+INFO: Execute project builders
+INFO: Execute project builders (done) | time=12ms
+INFO: Project key: sa.gov.gosi.si:gosi-ui
+INFO: Base dir: /u01/app/jenkinsagent/workspace/cial-insurance-ui_feature_277264
+INFO: Working dir: /u01/app/jenkinsagent/workspace/cial-insurance-ui_feature_277264/.scannerwork
+INFO: Load project settings for component key: 'sa.gov.gosi.si:gosi-ui'
+INFO: Load project settings for component key: 'sa.gov.gosi.si:gosi-ui' (done) | time=55ms
+INFO: Load project branches
+INFO: Load project branches (done) | time=136ms
+INFO: Load project pull requests
+INFO: Load project pull requests (done) | time=15ms
+INFO: Load branch configuration
+INFO: Found manual configuration of branch/PR analysis. Skipping automatic configuration.
+INFO: Load branch configuration (done) | time=3ms
+INFO: Load quality profiles
+INFO: Load quality profiles (done) | time=57ms
+INFO: Auto-configuring with CI 'Jenkins'
+INFO: Load active rules
+INFO: Load active rules (done) | time=1109ms
+INFO: Branch name: feature_277264
+WARN: Property 'sonar.odm.file.suffixes' is not declared as multi-values/property set but was read using 'getStringArray' method. The SonarQube plugin declaring this property should be updated.
+WARN: Property 'sonar.bpm.file.suffixes' is not declared as multi-values/property set but was read using 'getStringArray' method. The SonarQube plugin declaring this property should be updated.
+INFO: Indexing files...
+INFO: Project configuration:
+INFO:   Excluded sources: **/target/generated-sources/**/*, **/src/**/AmeenCommandLineJobRunner.java, **/target/**/*, **/target/surefire-reports/**/*, **/aop-ajc.xml, **/pom.xml, **/weblogic.xml, **/logback-test.xml, **/logback.xml, **/*.sql, **/groovy/demo/*.groovy, **/cloc.xml, **/src/test/Test.xml, **/vendors/**/*, gosi-ui/apps/**/*.spec.ts, gosi-ui/libs/**/*.spec.ts
+INFO:   Included tests: gosi-ui/apps/**/*.spec.ts, gosi-ui/libs/**/*.spec.ts
+INFO:   Excluded tests: **/*.sql
+INFO:   Excluded sources for coverage: gosi-framework/src/**/*, **/*Application.java, **/src/test/**/*, **/test-data.ts, **/report/**/*, **/index.ts, **/environments/**/*, **/*module.ts, **/*.js, **/*.scss, **/utils/**/*, **/*-dc*.ts, **/*constants*.ts, **/*models/*.ts, **/widgets/**/*, **/validators/**/*, **/constants/**/*, **/tokens/**/*, **/pipes/**/*, **/directives/**/*, **/vo/**/*, **/enums/**/*.java, **/config/**/*, **/*Entity.java, **/*Dto.java, **/dto/*.java, **/*pom.xml, **/domain/**/*.java, **/*test*.ts, **/*main*.ts, **/*mock-*.ts, **/guards/**/*, **/interceptors/**/*, **/*Configuration.java, **/*Listener.java, **/event/**/*, **/RevisionUtils.java, **/*Vo.java, **/*.sql, **/enums/*.ts, **/enums/**/*.ts, **/app-shell/**/*, **/test-data/**/*, **/callback-sc/**/*, **/input-base-component.ts, **/utils/*.ts
+INFO:   Excluded sources for duplication: **/*Configuration.java, **/dto/*.java, **/*Dto.java, **/*Entity.java, **/src/test/**/*, **/target/**/*, **/test-data.ts, **/*test-data/*.ts, **/apps/**/*.ts, **/*models/*.ts, **/*mock-*.ts, **/*constants/**/*.ts, **/*.sql, Test Suites/Execute*.groovy, **/scripts/groovy/sa/**/*.groovy, **Scripts/**/*.groovy, **/oauth2/callback/welcome-index.html, **/widgets/**/*.html, **registration/contributor/**/*
+INFO: Load project repositories
+INFO: Load project repositories (done) | time=531ms
+INFO: 2767 files indexed
+INFO: 2607 files ignored because of inclusion/exclusion patterns
+INFO: Quality profile for css: Sonar way all test
+INFO: Quality profile for js: Sonar way Recommended
+INFO: Quality profile for odm: Ameen
+INFO: Quality profile for ts: Ameen-TypeSript
+INFO: Quality profile for web: Sonar way 2
+INFO: ------------- Run sensors on module sa.gov.gosi.si:gosi-ui
+INFO: Load metrics repository
+INFO: Load metrics repository (done) | time=49ms
+INFO: Sensor SonarCSS Metrics [cssfamily]
+INFO: Sensor SonarCSS Metrics [cssfamily] (done) | time=741ms
+INFO: Sensor SonarCSS Rules [cssfamily]
+INFO: 929 source files to be analyzed
+INFO: 885/929 files analyzed, current file: gosi-ui/libs/features/establishment/src/lib/shared/components/branch-item-dc/branch-item-dc.component.scss
+INFO: 929/929 source files have been analyzed
+INFO: Sensor SonarCSS Rules [cssfamily] (done) | time=11773ms
+INFO: Sensor HTML [web]
+INFO: Sensor HTML [web] (done) | time=1961ms
+INFO: Sensor SonarTS [typescript]
+INFO: Since SonarTS v2.0, TypeScript analysis is performed by SonarJS analyzer v6.0 or later. No TypeScript analysis is performed by SonarTS.
+INFO: Sensor SonarTS [typescript] (done) | time=0ms
+INFO: Sensor Compute unit tests from json [odmcustomplugin]
+INFO: ------------------------------------------------------------------------
+INFO: EXECUTION FAILURE
+INFO: ------------------------------------------------------------------------
+INFO: Total time: 27.361s
+INFO: Final Memory: 45M/1325M
+INFO: ------------------------------------------------------------------------
+ERROR: Error during SonarQube Scanner execution
+ERROR: Analysis cancelled
+ERROR: Caused by: Expecting '{' on line 1, column 2 instead, obtained token: 'Token: ['
+ERROR: 
+ERROR: Re-run SonarQube Scanner using the -X switch to enable full debug logging.

@@ -1,0 +1,1898 @@
+
+Skip to content
+[Jenkins]Jenkins
+search
+Boopathi Krishnasamy
+log out
+Jenkins
+Ameen
+social-insurance-ui
+feature_277264
+#156
+ Back to Project
+ Status
+ Changes
+ Console Output
+ View as plain text
+ View Build Information
+ Git Build Data
+ SLOCCount Results
+ Open Blue Ocean
+ Restart from Stage
+ Replay
+ Pipeline Steps
+ Previous Build
+FailedConsole Output
+Skipping 2,471 KB.. Full Log
+[39m
+[1A[2KWARN: 'Can't bind to 'complication' since it isn't a known property of 'oh-close-complication-dc'.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 434 of 445 SUCCESS (0 secs / 28.927 secs)
+WARN: 'Can't bind to 'complication' since it isn't a known property of 'oh-close-complication-dc'.'
+WARN LOG: [36m'Can't bind to 'complication' since it isn't a known property of 'oh-close-complication-dc'.'[39m
+[1A[2KWARN: 'Can't bind to 'close' since it isn't a known property of 'oh-close-complication-dc'.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 434 of 445 SUCCESS (0 secs / 28.927 secs)
+WARN: 'Can't bind to 'close' since it isn't a known property of 'oh-close-complication-dc'.'
+WARN LOG: [36m'Can't bind to 'close' since it isn't a known property of 'oh-close-complication-dc'.'[39m
+[1A[2KWARN: 'Can't bind to 'canEdit' since it isn't a known property of 'oh-close-complication-dc'.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 434 of 445 SUCCESS (0 secs / 28.927 secs)
+WARN: 'Can't bind to 'canEdit' since it isn't a known property of 'oh-close-complication-dc'.'
+WARN LOG: [36m'Can't bind to 'canEdit' since it isn't a known property of 'oh-close-complication-dc'.'[39m
+[1A[2KWARN: 'Can't bind to 'complicationClosingStatus' since it isn't a known property of 'oh-close-complication-dc'.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 434 of 445 SUCCESS (0 secs / 28.927 secs)
+WARN: 'Can't bind to 'complicationClosingStatus' since it isn't a known property of 'oh-close-complication-dc'.'
+WARN LOG: [36m'Can't bind to 'complicationClosingStatus' since it isn't a known property of 'oh-close-complication-dc'.'[39m
+[1A[2KWARN: ''gosi-button-dc' is not a known element:
+1. If 'gosi-button-dc' is an Angular component, then verify that it is part of this module.
+2. If 'gosi-button-dc' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 434 of 445 SUCCESS (0 secs / 28.927 secs)
+WARN: ''gosi-button-dc' is not a known element:
+1. If 'gosi-button-dc' is an Angular component, then verify that it is part of this module.
+2. If 'gosi-button-dc' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.'
+WARN LOG: [36m''gosi-button-dc' is not a known element:
+1. If 'gosi-button-dc' is an Angular component, then verify that it is part of this module.
+2. If 'gosi-button-dc' is a Web Component then add 'CUSTOM_ELEMENTS_SCHEMA' to the '@NgModule.schemas' of this component to suppress this message.'[39m
+[1A[2KWARN: 'Can't bind to 'type' since it isn't a known property of 'gosi-button-dc'.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 434 of 445 SUCCESS (0 secs / 28.927 secs)
+WARN: 'Can't bind to 'type' since it isn't a known property of 'gosi-button-dc'.'
+WARN LOG: [36m'Can't bind to 'type' since it isn't a known property of 'gosi-button-dc'.'[39m
+[1A[2KWARN: 'Can't bind to 'type' since it isn't a known property of 'gosi-button-dc'.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 434 of 445 SUCCESS (0 secs / 28.927 secs)
+WARN: 'Can't bind to 'type' since it isn't a known property of 'gosi-button-dc'.'
+WARN LOG: [36m'Can't bind to 'type' since it isn't a known property of 'gosi-button-dc'.'[39m
+[1A[2KWARN: 'Navigation triggered outside Angular zone, did you forget to call 'ngZone.run()'?'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 434 of 445 SUCCESS (0 secs / 28.927 secs)
+WARN: 'Navigation triggered outside Angular zone, did you forget to call 'ngZone.run()'?'
+WARN LOG: [36m'Navigation triggered outside Angular zone, did you forget to call 'ngZone.run()'?'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 435 of 445 SUCCESS (0 secs / 28.989 secs)
+    confirm cancel
+      [32m✓ [39mshould confirm cancellation
+[1A[2KERROR: 'Unhandled Promise rejection:', 'Cannot match any routes. URL Segment: 'home/inbox/worklist'', '; Zone:', 'ProxyZone', '; Task:', 'Promise.then', '; Value:', Error: Cannot match any routes. URL Segment: 'home/inbox/worklist'
+http://localhost:9889/_karma_webpack_/vendor.js:101674:44
+error@http://localhost:9889/_karma_webpack_/vendor.js:215356:39
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+notifyError@http://localhost:9889/_karma_webpack_/vendor.js:212637:31
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212595:32
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+error@http://localhost:9889/_karma_webpack_/vendor.js:215359:44
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:220318:35
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:217599:38
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+http://localhost:9889/_karma_webpack_/vendor.js:222942:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:216736:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219722:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:217591:103
+_tryNext@http://localhost:9889/_karma_webpack_/vendor.js:217585:23
+_next@http://localhost:9889/_karma_webpack_/vendor.js:217568:26
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:222940:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219789:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:219633:104
+_next@http://localhost:9889/_karma_webpack_/vendor.js:219623:23
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+notifyNext@http://localhost:9889/_karma_webpack_/vendor.js:219655:30
+_next@http://localhost:9889/_karma_webpack_/vendor.js:212592:31
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:223045:32
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13395:35
+onInvoke@http://localhost:9889/_karma_webpack_/vendor.js:225339:49
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13394:44
+run@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13152:53
+http://localhost:9889/_karma_webpack_/polyfills-es5.js:13900:41
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13430:40
+onInvokeTask@http://localhost:9889/_karma_webpack_/vendor.js:225370:53
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13429:52
+runTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13197:61
+drainMicroTaskQueue@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13610:46
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13516:44
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13501:56
+timer@http://localhost:9889/_karma_webpack_/polyfills-es5.js:16043:38, 'http://localhost:9889/_karma_webpack_/vendor.js:101674:44
+error@http://localhost:9889/_karma_webpack_/vendor.js:215356:39
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+notifyError@http://localhost:9889/_karma_webpack_/vendor.js:212637:31
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212595:32
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+error@http://localhost:9889/_karma_webpack_/vendor.js:215359:44
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:220318:35
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:217599:38
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+http://localhost:9889/_karma_webpack_/vendor.js:222942:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:216736:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219722:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:217591:103
+_tryNext@http://localhost:9889/_karma_webpack_/vendor.js:217585:23
+_next@http://localhost:9889/_karma_webpack_/vendor.js:217568:26
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:222940:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219789:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:219633:104
+_next@http://localhost:9889/_karma_webpack_/vendor.js:219623:23
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+notifyNext@http://localhost:9889/_karma_webpack_/vendor.js:219655:30
+_next@http://localhost:9889/_karma_webpack_/vendor.js:212592:31
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:223045:32
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13395:35
+onInvoke@http://localhost:9889/_karma_webpack_/vendor.js:225339:49
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13394:44
+run@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13152:53
+http://localhost:9889/_karma_webpack_/polyfills-es5.js:13900:41
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13430:40
+onInvokeTask@http://localhost:9889/_karma_webpack_/vendor.js:225370:53
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13429:52
+runTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13197:61
+drainMicroTaskQueue@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13610:46
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13516:44
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13501:56
+timer@http://localhost:9889/_karma_webpack_/polyfills-es5.js:16043:38'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 435 of 445 SUCCESS (0 secs / 28.989 secs)
+ERROR: 'Unhandled Promise rejection:', 'Cannot match any routes. URL Segment: 'home/inbox/worklist'', '; Zone:', 'ProxyZone', '; Task:', 'Promise.then', '; Value:', Error: Cannot match any routes. URL Segment: 'home/inbox/worklist'
+http://localhost:9889/_karma_webpack_/vendor.js:101674:44
+error@http://localhost:9889/_karma_webpack_/vendor.js:215356:39
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+notifyError@http://localhost:9889/_karma_webpack_/vendor.js:212637:31
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212595:32
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+error@http://localhost:9889/_karma_webpack_/vendor.js:215359:44
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:220318:35
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:217599:38
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+http://localhost:9889/_karma_webpack_/vendor.js:222942:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:216736:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219722:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:217591:103
+_tryNext@http://localhost:9889/_karma_webpack_/vendor.js:217585:23
+_next@http://localhost:9889/_karma_webpack_/vendor.js:217568:26
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:222940:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219789:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:219633:104
+_next@http://localhost:9889/_karma_webpack_/vendor.js:219623:23
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+notifyNext@http://localhost:9889/_karma_webpack_/vendor.js:219655:30
+_next@http://localhost:9889/_karma_webpack_/vendor.js:212592:31
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:223045:32
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13395:35
+onInvoke@http://localhost:9889/_karma_webpack_/vendor.js:225339:49
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13394:44
+run@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13152:53
+http://localhost:9889/_karma_webpack_/polyfills-es5.js:13900:41
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13430:40
+onInvokeTask@http://localhost:9889/_karma_webpack_/vendor.js:225370:53
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13429:52
+runTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13197:61
+drainMicroTaskQueue@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13610:46
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13516:44
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13501:56
+timer@http://localhost:9889/_karma_webpack_/polyfills-es5.js:16043:38, 'http://localhost:9889/_karma_webpack_/vendor.js:101674:44
+error@http://localhost:9889/_karma_webpack_/vendor.js:215356:39
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+notifyError@http://localhost:9889/_karma_webpack_/vendor.js:212637:31
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212595:32
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+error@http://localhost:9889/_karma_webpack_/vendor.js:215359:44
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:220318:35
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:217599:38
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+http://localhost:9889/_karma_webpack_/vendor.js:222942:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:216736:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219722:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:217591:103
+_tryNext@http://localhost:9889/_karma_webpack_/vendor.js:217585:23
+_next@http://localhost:9889/_karma_webpack_/vendor.js:217568:26
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:222940:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219789:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:219633:104
+_next@http://localhost:9889/_karma_webpack_/vendor.js:219623:23
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+notifyNext@http://localhost:9889/_karma_webpack_/vendor.js:219655:30
+_next@http://localhost:9889/_karma_webpack_/vendor.js:212592:31
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:223045:32
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13395:35
+onInvoke@http://localhost:9889/_karma_webpack_/vendor.js:225339:49
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13394:44
+run@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13152:53
+http://localhost:9889/_karma_webpack_/polyfills-es5.js:13900:41
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13430:40
+onInvokeTask@http://localhost:9889/_karma_webpack_/vendor.js:225370:53
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13429:52
+runTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13197:61
+drainMicroTaskQueue@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13610:46
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13516:44
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13501:56
+timer@http://localhost:9889/_karma_webpack_/polyfills-es5.js:16043:38'
+ERROR LOG: [36m'Unhandled Promise rejection:', 'Cannot match any routes. URL Segment: 'home/inbox/worklist'', '; Zone:', 'ProxyZone', '; Task:', 'Promise.then', '; Value:', Error: Cannot match any routes. URL Segment: 'home/inbox/worklist'
+http://localhost:9889/_karma_webpack_/vendor.js:101674:44
+error@http://localhost:9889/_karma_webpack_/vendor.js:215356:39
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+notifyError@http://localhost:9889/_karma_webpack_/vendor.js:212637:31
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212595:32
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+error@http://localhost:9889/_karma_webpack_/vendor.js:215359:44
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:220318:35
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:217599:38
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+http://localhost:9889/_karma_webpack_/vendor.js:222942:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:216736:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219722:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:217591:103
+_tryNext@http://localhost:9889/_karma_webpack_/vendor.js:217585:23
+_next@http://localhost:9889/_karma_webpack_/vendor.js:217568:26
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:222940:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219789:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:219633:104
+_next@http://localhost:9889/_karma_webpack_/vendor.js:219623:23
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+notifyNext@http://localhost:9889/_karma_webpack_/vendor.js:219655:30
+_next@http://localhost:9889/_karma_webpack_/vendor.js:212592:31
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:223045:32
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13395:35
+onInvoke@http://localhost:9889/_karma_webpack_/vendor.js:225339:49
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13394:44
+run@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13152:53
+http://localhost:9889/_karma_webpack_/polyfills-es5.js:13900:41
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13430:40
+onInvokeTask@http://localhost:9889/_karma_webpack_/vendor.js:225370:53
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13429:52
+runTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13197:61
+drainMicroTaskQueue@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13610:46
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13516:44
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13501:56
+timer@http://localhost:9889/_karma_webpack_/polyfills-es5.js:16043:38, 'http://localhost:9889/_karma_webpack_/vendor.js:101674:44
+error@http://localhost:9889/_karma_webpack_/vendor.js:215356:39
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+notifyError@http://localhost:9889/_karma_webpack_/vendor.js:212637:31
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212595:32
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+error@http://localhost:9889/_karma_webpack_/vendor.js:215359:44
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:220318:35
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:217599:38
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+http://localhost:9889/_karma_webpack_/vendor.js:222942:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:216736:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219722:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:217591:103
+_tryNext@http://localhost:9889/_karma_webpack_/vendor.js:217585:23
+_next@http://localhost:9889/_karma_webpack_/vendor.js:217568:26
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:222940:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219789:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:219633:104
+_next@http://localhost:9889/_karma_webpack_/vendor.js:219623:23
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+notifyNext@http://localhost:9889/_karma_webpack_/vendor.js:219655:30
+_next@http://localhost:9889/_karma_webpack_/vendor.js:212592:31
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:223045:32
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13395:35
+onInvoke@http://localhost:9889/_karma_webpack_/vendor.js:225339:49
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13394:44
+run@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13152:53
+http://localhost:9889/_karma_webpack_/polyfills-es5.js:13900:41
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13430:40
+onInvokeTask@http://localhost:9889/_karma_webpack_/vendor.js:225370:53
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13429:52
+runTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13197:61
+drainMicroTaskQueue@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13610:46
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13516:44
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13501:56
+timer@http://localhost:9889/_karma_webpack_/polyfills-es5.js:16043:38'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 436 of 445 SUCCESS (0 secs / 29.057 secs)
+
+  ViewComplicationScComponent
+     modifyComplicationTransaction
+      [32m✓ [39mshould  modifyComplicationTransaction
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 437 of 445 SUCCESS (0 secs / 29.11 secs)
+    [32m✓ [39mshould create
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 438 of 445 SUCCESS (0 secs / 29.15 secs)
+     modifyComplicationTransaction
+      [32m✓ [39mshould  modifyComplicationTransaction
+[1A[2KWARN: 'Navigation triggered outside Angular zone, did you forget to call 'ngZone.run()'?'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 438 of 445 SUCCESS (0 secs / 29.15 secs)
+WARN: 'Navigation triggered outside Angular zone, did you forget to call 'ngZone.run()'?'
+WARN LOG: [36m'Navigation triggered outside Angular zone, did you forget to call 'ngZone.run()'?'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 439 of 445 SUCCESS (0 secs / 29.204 secs)
+     reopenComplicationTransaction
+      [32m✓ [39mshould  reopenComplicationTransaction
+[1A[2KERROR: 'Unhandled Promise rejection:', 'Cannot match any routes. URL Segment: 'home/oh/complication/re-open'', '; Zone:', 'ProxyZone', '; Task:', 'Promise.then', '; Value:', Error: Cannot match any routes. URL Segment: 'home/oh/complication/re-open'
+http://localhost:9889/_karma_webpack_/vendor.js:101674:44
+error@http://localhost:9889/_karma_webpack_/vendor.js:215356:39
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+notifyError@http://localhost:9889/_karma_webpack_/vendor.js:212637:31
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212595:32
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+error@http://localhost:9889/_karma_webpack_/vendor.js:215359:44
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:220318:35
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:217599:38
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+http://localhost:9889/_karma_webpack_/vendor.js:222942:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:216736:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219722:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:217591:103
+_tryNext@http://localhost:9889/_karma_webpack_/vendor.js:217585:23
+_next@http://localhost:9889/_karma_webpack_/vendor.js:217568:26
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:222940:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219789:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:219633:104
+_next@http://localhost:9889/_karma_webpack_/vendor.js:219623:23
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+notifyNext@http://localhost:9889/_karma_webpack_/vendor.js:219655:30
+_next@http://localhost:9889/_karma_webpack_/vendor.js:212592:31
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:223045:32
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13395:35
+onInvoke@http://localhost:9889/_karma_webpack_/vendor.js:225339:49
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13394:44
+run@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13152:53
+http://localhost:9889/_karma_webpack_/polyfills-es5.js:13900:41
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13430:40
+onInvokeTask@http://localhost:9889/_karma_webpack_/vendor.js:225370:53
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13429:52
+runTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13197:61
+drainMicroTaskQueue@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13610:46
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13516:44
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13501:56
+timer@http://localhost:9889/_karma_webpack_/polyfills-es5.js:16043:38, 'http://localhost:9889/_karma_webpack_/vendor.js:101674:44
+error@http://localhost:9889/_karma_webpack_/vendor.js:215356:39
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+notifyError@http://localhost:9889/_karma_webpack_/vendor.js:212637:31
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212595:32
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+error@http://localhost:9889/_karma_webpack_/vendor.js:215359:44
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:220318:35
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:217599:38
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+http://localhost:9889/_karma_webpack_/vendor.js:222942:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:216736:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219722:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:217591:103
+_tryNext@http://localhost:9889/_karma_webpack_/vendor.js:217585:23
+_next@http://localhost:9889/_karma_webpack_/vendor.js:217568:26
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:222940:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219789:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:219633:104
+_next@http://localhost:9889/_karma_webpack_/vendor.js:219623:23
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+notifyNext@http://localhost:9889/_karma_webpack_/vendor.js:219655:30
+_next@http://localhost:9889/_karma_webpack_/vendor.js:212592:31
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:223045:32
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13395:35
+onInvoke@http://localhost:9889/_karma_webpack_/vendor.js:225339:49
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13394:44
+run@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13152:53
+http://localhost:9889/_karma_webpack_/polyfills-es5.js:13900:41
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13430:40
+onInvokeTask@http://localhost:9889/_karma_webpack_/vendor.js:225370:53
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13429:52
+runTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13197:61
+drainMicroTaskQueue@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13610:46
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13516:44
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13501:56
+timer@http://localhost:9889/_karma_webpack_/polyfills-es5.js:16043:38'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 439 of 445 SUCCESS (0 secs / 29.204 secs)
+ERROR: 'Unhandled Promise rejection:', 'Cannot match any routes. URL Segment: 'home/oh/complication/re-open'', '; Zone:', 'ProxyZone', '; Task:', 'Promise.then', '; Value:', Error: Cannot match any routes. URL Segment: 'home/oh/complication/re-open'
+http://localhost:9889/_karma_webpack_/vendor.js:101674:44
+error@http://localhost:9889/_karma_webpack_/vendor.js:215356:39
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+notifyError@http://localhost:9889/_karma_webpack_/vendor.js:212637:31
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212595:32
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+error@http://localhost:9889/_karma_webpack_/vendor.js:215359:44
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:220318:35
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:217599:38
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+http://localhost:9889/_karma_webpack_/vendor.js:222942:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:216736:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219722:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:217591:103
+_tryNext@http://localhost:9889/_karma_webpack_/vendor.js:217585:23
+_next@http://localhost:9889/_karma_webpack_/vendor.js:217568:26
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:222940:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219789:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:219633:104
+_next@http://localhost:9889/_karma_webpack_/vendor.js:219623:23
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+notifyNext@http://localhost:9889/_karma_webpack_/vendor.js:219655:30
+_next@http://localhost:9889/_karma_webpack_/vendor.js:212592:31
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:223045:32
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13395:35
+onInvoke@http://localhost:9889/_karma_webpack_/vendor.js:225339:49
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13394:44
+run@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13152:53
+http://localhost:9889/_karma_webpack_/polyfills-es5.js:13900:41
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13430:40
+onInvokeTask@http://localhost:9889/_karma_webpack_/vendor.js:225370:53
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13429:52
+runTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13197:61
+drainMicroTaskQueue@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13610:46
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13516:44
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13501:56
+timer@http://localhost:9889/_karma_webpack_/polyfills-es5.js:16043:38, 'http://localhost:9889/_karma_webpack_/vendor.js:101674:44
+error@http://localhost:9889/_karma_webpack_/vendor.js:215356:39
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+notifyError@http://localhost:9889/_karma_webpack_/vendor.js:212637:31
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212595:32
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+error@http://localhost:9889/_karma_webpack_/vendor.js:215359:44
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:220318:35
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:217599:38
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+http://localhost:9889/_karma_webpack_/vendor.js:222942:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:216736:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219722:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:217591:103
+_tryNext@http://localhost:9889/_karma_webpack_/vendor.js:217585:23
+_next@http://localhost:9889/_karma_webpack_/vendor.js:217568:26
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:222940:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219789:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:219633:104
+_next@http://localhost:9889/_karma_webpack_/vendor.js:219623:23
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+notifyNext@http://localhost:9889/_karma_webpack_/vendor.js:219655:30
+_next@http://localhost:9889/_karma_webpack_/vendor.js:212592:31
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:223045:32
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13395:35
+onInvoke@http://localhost:9889/_karma_webpack_/vendor.js:225339:49
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13394:44
+run@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13152:53
+http://localhost:9889/_karma_webpack_/polyfills-es5.js:13900:41
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13430:40
+onInvokeTask@http://localhost:9889/_karma_webpack_/vendor.js:225370:53
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13429:52
+runTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13197:61
+drainMicroTaskQueue@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13610:46
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13516:44
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13501:56
+timer@http://localhost:9889/_karma_webpack_/polyfills-es5.js:16043:38'
+ERROR LOG: [36m'Unhandled Promise rejection:', 'Cannot match any routes. URL Segment: 'home/oh/complication/re-open'', '; Zone:', 'ProxyZone', '; Task:', 'Promise.then', '; Value:', Error: Cannot match any routes. URL Segment: 'home/oh/complication/re-open'
+http://localhost:9889/_karma_webpack_/vendor.js:101674:44
+error@http://localhost:9889/_karma_webpack_/vendor.js:215356:39
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+notifyError@http://localhost:9889/_karma_webpack_/vendor.js:212637:31
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212595:32
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+error@http://localhost:9889/_karma_webpack_/vendor.js:215359:44
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:220318:35
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:217599:38
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+http://localhost:9889/_karma_webpack_/vendor.js:222942:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:216736:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219722:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:217591:103
+_tryNext@http://localhost:9889/_karma_webpack_/vendor.js:217585:23
+_next@http://localhost:9889/_karma_webpack_/vendor.js:217568:26
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:222940:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219789:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:219633:104
+_next@http://localhost:9889/_karma_webpack_/vendor.js:219623:23
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+notifyNext@http://localhost:9889/_karma_webpack_/vendor.js:219655:30
+_next@http://localhost:9889/_karma_webpack_/vendor.js:212592:31
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:223045:32
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13395:35
+onInvoke@http://localhost:9889/_karma_webpack_/vendor.js:225339:49
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13394:44
+run@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13152:53
+http://localhost:9889/_karma_webpack_/polyfills-es5.js:13900:41
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13430:40
+onInvokeTask@http://localhost:9889/_karma_webpack_/vendor.js:225370:53
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13429:52
+runTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13197:61
+drainMicroTaskQueue@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13610:46
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13516:44
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13501:56
+timer@http://localhost:9889/_karma_webpack_/polyfills-es5.js:16043:38, 'http://localhost:9889/_karma_webpack_/vendor.js:101674:44
+error@http://localhost:9889/_karma_webpack_/vendor.js:215356:39
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+notifyError@http://localhost:9889/_karma_webpack_/vendor.js:212637:31
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212595:32
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+_error@http://localhost:9889/_karma_webpack_/vendor.js:212211:31
+error@http://localhost:9889/_karma_webpack_/vendor.js:212191:24
+error@http://localhost:9889/_karma_webpack_/vendor.js:215359:44
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:220318:35
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:217599:38
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+_complete@http://localhost:9889/_karma_webpack_/vendor.js:212215:34
+complete@http://localhost:9889/_karma_webpack_/vendor.js:212197:27
+http://localhost:9889/_karma_webpack_/vendor.js:222942:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:216736:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219722:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:217591:103
+_tryNext@http://localhost:9889/_karma_webpack_/vendor.js:217585:23
+_next@http://localhost:9889/_karma_webpack_/vendor.js:217568:26
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:222940:28
+_trySubscribe@http://localhost:9889/_karma_webpack_/vendor.js:211567:35
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211553:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217546:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:219789:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:220293:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:215340:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+call@http://localhost:9889/_karma_webpack_/vendor.js:217297:32
+subscribe@http://localhost:9889/_karma_webpack_/vendor.js:211548:35
+innerSubscribe@http://localhost:9889/_karma_webpack_/vendor.js:212667:32
+_innerSub@http://localhost:9889/_karma_webpack_/vendor.js:219633:104
+_next@http://localhost:9889/_karma_webpack_/vendor.js:219623:23
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+notifyNext@http://localhost:9889/_karma_webpack_/vendor.js:219655:30
+_next@http://localhost:9889/_karma_webpack_/vendor.js:212592:31
+next@http://localhost:9889/_karma_webpack_/vendor.js:212185:23
+http://localhost:9889/_karma_webpack_/vendor.js:223045:32
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13395:35
+onInvoke@http://localhost:9889/_karma_webpack_/vendor.js:225339:49
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13394:44
+run@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13152:53
+http://localhost:9889/_karma_webpack_/polyfills-es5.js:13900:41
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13430:40
+onInvokeTask@http://localhost:9889/_karma_webpack_/vendor.js:225370:53
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13429:52
+runTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13197:61
+drainMicroTaskQueue@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13610:46
+invokeTask@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13516:44
+invoke@http://localhost:9889/_karma_webpack_/polyfills-es5.js:13501:56
+timer@http://localhost:9889/_karma_webpack_/polyfills-es5.js:16043:38'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 440 of 445 SUCCESS (0 secs / 29.257 secs)
+     rejectComplication
+      [32m✓ [39mshould  rejectComplication
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 441 of 445 SUCCESS (0 secs / 29.297 secs)
+     getComplication
+      [32m✓ [39mshould  getComplication
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 442 of 445 SUCCESS (0 secs / 29.347 secs)
+    rejectComplication
+      [32m✓ [39mshould  rejectComplication
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 443 of 445 SUCCESS (0 secs / 29.385 secs)
+     reopenComplicationTransaction
+      [32m✓ [39mshould  reopenComplicationTransaction
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 444 of 445 SUCCESS (0 secs / 29.439 secs)
+     ngOnInit
+      [32m✓ [39mshould  ngOnInit
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 445 of 445 SUCCESS (0 secs / 29.49 secs)
+    getComplication
+      [32m✓ [39mgetComplication should throw error
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 445 of 445 SUCCESS (26.816 secs / 29.49 secs)
+TOTAL: 445 SUCCESS
+TOTAL: 445 SUCCESS
+
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 445 of 445[32m SUCCESS[39m (26.816 secs / 29.49 secs)
+[32mTOTAL: 445 SUCCESS[39m
+
+TOTAL: 445 SUCCESS
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 0 of 22 SUCCESS (0 secs / 0 secs)
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 1 of 22 SUCCESS (0 secs / 4.45 secs)
+
+  TransactionService
+    [32m✓ [39mShould get the filtered Transaction list search with transaction id and filter by channel
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 2 of 22 SUCCESS (0 secs / 4.459 secs)
+    [32m✓ [39mShould get the filtered Transaction list from public API with pagination and sorting
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 3 of 22 SUCCESS (0 secs / 4.47 secs)
+    [32m✓ [39mShould get the filtered Transaction list search with transaction type and filter by status
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 4 of 22 SUCCESS (0 secs / 4.499 secs)
+    [32m✓ [39mTransactionService should be created
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 5 of 22 SUCCESS (0 secs / 4.726 secs)
+
+  TransactionHistoryScComponent
+    test suite for paginate the list of transactions
+      [32m✓ [39mIt should paginate the list of transactions
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 6 of 22 SUCCESS (0 secs / 4.81 secs)
+    check defaultSearch values
+      [32m✓ [39mcheck search value
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 7 of 22 SUCCESS (0 secs / 4.889 secs)
+    check sortList
+      [32m✓ [39mcheck sort method
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 8 of 22 SUCCESS (0 secs / 4.948 secs)
+      [32m✓ [39mcheck changeSortDirection is called
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 9 of 22 SUCCESS (0 secs / 5.016 secs)
+    test suite for sorting the  transactions
+      [32m✓ [39mIt should sort the transactions
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 10 of 22 SUCCESS (0 secs / 5.074 secs)
+    getTransactions
+      [32m✓ [39mshould get transactions
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 11 of 22 SUCCESS (0 secs / 5.141 secs)
+    check changeSortDirection
+      [32m✓ [39mcheck sort direction with isDescending as true
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 12 of 22 SUCCESS (0 secs / 5.196 secs)
+      [32m✓ [39mcheck sort direction with isDescending as false
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 13 of 22 SUCCESS (0 secs / 5.265 secs)
+    test suite for filter transactions
+      [32m✓ [39mIt should filter the transactions
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 14 of 22 SUCCESS (0 secs / 5.319 secs)
+    should set the transaction
+      [32m✓ [39mtransaction setter
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 15 of 22 SUCCESS (0 secs / 5.38 secs)
+    test suite for search Transactions
+      [32m✓ [39mIt should search for all the matching transactions 
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 16 of 22 SUCCESS (0 secs / 5.43 secs)
+    test suite for allTransactions
+      [32m✓ [39mIt should get all the transactions
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 17 of 22 SUCCESS (0 secs / 5.491 secs)
+     ngOninit
+      [32m✓ [39mshould  ngOninit
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 18 of 22 SUCCESS (0 secs / 5.604 secs)
+    [32m✓ [39mshould create
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 19 of 22 SUCCESS (0 secs / 5.657 secs)
+    check defaultSort values
+      [32m✓ [39mcheck isDescending value
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 20 of 22 SUCCESS (0 secs / 5.713 secs)
+      [32m✓ [39mcheck selectedOption value
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 21 of 22 SUCCESS (0 secs / 5.772 secs)
+    check defaultPagination values
+      [32m✓ [39mcheck currentpage value
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 22 of 22 SUCCESS (0 secs / 5.806 secs)
+      [32m✓ [39mcheck itemsPerPageitemsPerPage value
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 22 of 22 SUCCESS (1.427 secs / 5.806 secs)
+TOTAL: 22 SUCCESS
+TOTAL: 22 SUCCESS
+
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 22 of 22[32m SUCCESS[39m (1.427 secs / 5.806 secs)
+[32mTOTAL: 22 SUCCESS[39m
+
+TOTAL: 22 SUCCESS
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 0 of 80 SUCCESS (0 secs / 0 secs)
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 1 of 80 SUCCESS (0 secs / 4.378 secs)
+
+  Contributor.ServiceService
+    Get contributor
+      [32m✓ [39mShould retrieve the contributor
+[1A[2KWARN: 'Spec 'Contributor.ServiceService Update engagement  Details Should update the engagement  details' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 1 of 80 SUCCESS (0 secs / 4.378 secs)
+WARN: 'Spec 'Contributor.ServiceService Update engagement  Details Should update the engagement  details' has no expectations.'
+WARN LOG: [36m'Spec 'Contributor.ServiceService Update engagement  Details Should update the engagement  details' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 2 of 80 SUCCESS (0 secs / 4.422 secs)
+    Update engagement  Details
+      [32m✓ [39mShould update the engagement  details
+[1A[2KWARN: 'Spec 'Contributor.ServiceService Restrict Progress icons Should restrict the progress icons' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 2 of 80 SUCCESS (0 secs / 4.422 secs)
+WARN: 'Spec 'Contributor.ServiceService Restrict Progress icons Should restrict the progress icons' has no expectations.'
+WARN LOG: [36m'Spec 'Contributor.ServiceService Restrict Progress icons Should restrict the progress icons' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 3 of 80 SUCCESS (0 secs / 4.432 secs)
+    Restrict Progress icons
+      [32m✓ [39mShould restrict the progress icons
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 4 of 80 SUCCESS (0 secs / 4.486 secs)
+    Get EngagmentDetails
+      [32m✓ [39mShould retrieve the EngagmentDetails
+[1A[2KWARN: 'Spec 'Contributor.ServiceService Update Person  Details Should update the person  details' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 4 of 80 SUCCESS (0 secs / 4.486 secs)
+WARN: 'Spec 'Contributor.ServiceService Update Person  Details Should update the person  details' has no expectations.'
+WARN LOG: [36m'Spec 'Contributor.ServiceService Update Person  Details Should update the person  details' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 5 of 80 SUCCESS (0 secs / 4.499 secs)
+    Update Person  Details
+      [32m✓ [39mShould update the person  details
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 6 of 80 SUCCESS (0 secs / 4.533 secs)
+    [32m✓ [39mshould be created
+[1A[2KWARN: 'Spec 'AddContributorScComponent getEstablishmentByRegistrationNumber Should fetch establishment details using Reg.No ' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 6 of 80 SUCCESS (0 secs / 4.533 secs)
+WARN: 'Spec 'AddContributorScComponent getEstablishmentByRegistrationNumber Should fetch establishment details using Reg.No ' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent getEstablishmentByRegistrationNumber Should fetch establishment details using Reg.No ' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 7 of 80 SUCCESS (0 secs / 4.611 secs)
+
+  AddContributorScComponent
+    getEstablishmentByRegistrationNumber
+      [32m✓ [39mShould fetch establishment details using Reg.No 
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 8 of 80 SUCCESS (0 secs / 4.629 secs)
+    updateContributor
+      [32m✓ [39mShould update contributor
+[1A[2KWARN: 'Spec 'AddContributorScComponent getEstablishment Should fetch establishment details using Reg.No ' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 8 of 80 SUCCESS (0 secs / 4.629 secs)
+WARN: 'Spec 'AddContributorScComponent getEstablishment Should fetch establishment details using Reg.No ' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent getEstablishment Should fetch establishment details using Reg.No ' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 9 of 80 SUCCESS (0 secs / 4.673 secs)
+    getEstablishment
+      [32m✓ [39mShould fetch establishment details using Reg.No 
+[1A[2KWARN: 'Spec 'AddContributorScComponent getEngagmentDetails Should fetch Engagment Details ' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 9 of 80 SUCCESS (0 secs / 4.673 secs)
+WARN: 'Spec 'AddContributorScComponent getEngagmentDetails Should fetch Engagment Details ' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent getEngagmentDetails Should fetch Engagment Details ' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 10 of 80 SUCCESS (0 secs / 4.775 secs)
+    getEngagmentDetails
+      [32m✓ [39mShould fetch Engagment Details 
+[1A[2KWARN: 'Spec 'AddContributorScComponent refresh Document refresh Document' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 10 of 80 SUCCESS (0 secs / 4.775 secs)
+WARN: 'Spec 'AddContributorScComponent refresh Document refresh Document' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent refresh Document refresh Document' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 11 of 80 SUCCESS (0 secs / 4.832 secs)
+    refresh Document
+      [32m✓ [39mrefresh Document
+[1A[2KWARN: 'Spec 'AddContributorScComponent update EmployeeDetails Should update EmployeeDetails' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 11 of 80 SUCCESS (0 secs / 4.832 secs)
+WARN: 'Spec 'AddContributorScComponent update EmployeeDetails Should update EmployeeDetails' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent update EmployeeDetails Should update EmployeeDetails' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 12 of 80 SUCCESS (0 secs / 4.901 secs)
+    update EmployeeDetails
+      [32m✓ [39mShould update EmployeeDetails
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 13 of 80 SUCCESS (0 secs / 4.928 secs)
+    cancelAddedContributor
+      [32m✓ [39mShould cancel added contributor
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 14 of 80 SUCCESS (0 secs / 4.985 secs)
+    submitUploadedDocuments
+      [32m✓ [39mShould upload doccuments
+[1A[2KWARN: 'Spec 'AddContributorScComponent getContributorDetails Should fetch Contributor Details ' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 14 of 80 SUCCESS (0 secs / 4.985 secs)
+WARN: 'Spec 'AddContributorScComponent getContributorDetails Should fetch Contributor Details ' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent getContributorDetails Should fetch Contributor Details ' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 15 of 80 SUCCESS (0 secs / 5.002 secs)
+    getContributorDetails
+      [32m✓ [39mShould fetch Contributor Details 
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 16 of 80 SUCCESS (0 secs / 5.045 secs)
+    ngOnInit
+      [32m✓ [39mShould perform initialization tasks
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 17 of 80 SUCCESS (0 secs / 5.086 secs)
+    cancelAddedEngagement
+      [32m✓ [39mcancel Added Engagement
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 18 of 80 SUCCESS (0 secs / 5.103 secs)
+    should call system parameter api
+      [32m✓ [39mmust fetch system parameters
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 19 of 80 SUCCESS (0 secs / 5.143 secs)
+    searchImmigratedTribes
+      [32m✓ [39mShould fetch contributor using IQAMA
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 20 of 80 SUCCESS (0 secs / 5.155 secs)
+    searchGCC
+      [32m✓ [39mShould fetch contributor using GCC
+[1A[2KWARN: 'Spec 'AddContributorScComponent searchNonSaudi Should fetch contributor using NIN' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 20 of 80 SUCCESS (0 secs / 5.155 secs)
+WARN: 'Spec 'AddContributorScComponent searchNonSaudi Should fetch contributor using NIN' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent searchNonSaudi Should fetch contributor using NIN' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 21 of 80 SUCCESS (0 secs / 5.194 secs)
+    searchNonSaudi
+      [32m✓ [39mShould fetch contributor using NIN
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 22 of 80 SUCCESS (0 secs / 5.237 secs)
+    saveContributor
+      [32m✓ [39mShould save contributor
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 23 of 80 SUCCESS (0 secs / 5.25 secs)
+    searchNinComplete
+      [32m✓ [39mShould bind respose to the moda
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 24 of 80 SUCCESS (0 secs / 5.29 secs)
+    searchNin
+      [32m✓ [39mShould fetch contributor using NIN
+    searchEstablishment
+      [36m- [39m[36mShould search Establishment details [39m
+[1A[2KWARN: 'Spec 'AddContributorScComponent getDoccumentUpload Should get required documents ' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 24 of 80 (skipped 1) SUCCESS (0 secs / 5.29 secs)
+WARN: 'Spec 'AddContributorScComponent getDoccumentUpload Should get required documents ' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent getDoccumentUpload Should get required documents ' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 25 of 80 (skipped 1) SUCCESS (0 secs / 5.462 secs)
+    getDoccumentUpload
+      [32m✓ [39mShould get required documents 
+[1A[2KWARN: 'Spec 'AddContributorScComponent getEstablishment Should get establishment details ' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 25 of 80 (skipped 1) SUCCESS (0 secs / 5.462 secs)
+WARN: 'Spec 'AddContributorScComponent getEstablishment Should get establishment details ' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent getEstablishment Should get establishment details ' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 26 of 80 (skipped 1) SUCCESS (0 secs / 5.507 secs)
+    getEstablishment
+      [32m✓ [39mShould get establishment details 
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 27 of 80 (skipped 1) SUCCESS (0 secs / 5.522 secs)
+    ngOnInit
+      [32m✓ [39mShould init 
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 28 of 80 (skipped 1) SUCCESS (0 secs / 5.55 secs)
+    nextForm
+      [32m✓ [39mShould activate the Next tab
+    setContributorType
+      [36m- [39m[36mShould init [39m
+[1A[2KWARN: 'Spec 'AddContributorScComponent saveContributor save Contributor ' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 28 of 80 (skipped 2) SUCCESS (0 secs / 5.55 secs)
+WARN: 'Spec 'AddContributorScComponent saveContributor save Contributor ' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent saveContributor save Contributor ' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 29 of 80 (skipped 2) SUCCESS (0 secs / 5.595 secs)
+    saveContributor
+      [32m✓ [39msave Contributor 
+    checkMandatoryDocuments
+      [36m- [39m[36mcheck mandatory doccuments are uploaded [39m
+[1A[2KWARN: 'Spec 'AddContributorScComponent saveEmployeeDetails Save Employee Details' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 29 of 80 (skipped 3) SUCCESS (0 secs / 5.595 secs)
+WARN: 'Spec 'AddContributorScComponent saveEmployeeDetails Save Employee Details' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent saveEmployeeDetails Save Employee Details' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 30 of 80 (skipped 3) SUCCESS (0 secs / 5.638 secs)
+    saveEmployeeDetails
+      [32m✓ [39mSave Employee Details
+[1A[2KWARN: 'Spec 'AddContributorScComponent setContributorType selects the type of contributor to be added ' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 30 of 80 (skipped 3) SUCCESS (0 secs / 5.638 secs)
+WARN: 'Spec 'AddContributorScComponent setContributorType selects the type of contributor to be added ' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent setContributorType selects the type of contributor to be added ' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 31 of 80 (skipped 3) SUCCESS (0 secs / 5.684 secs)
+    setContributorType
+      [32m✓ [39mselects the type of contributor to be added 
+    document upload isValidForm
+      [36m- [39m[36mCheck document upload is valid[39m
+[1A[2KWARN: 'Spec 'AddContributorScComponent document upload isValidForm Check document upload is  not valid' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 31 of 80 (skipped 4) SUCCESS (0 secs / 5.684 secs)
+WARN: 'Spec 'AddContributorScComponent document upload isValidForm Check document upload is  not valid' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent document upload isValidForm Check document upload is  not valid' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 32 of 80 (skipped 4) SUCCESS (0 secs / 5.727 secs)
+      [32m✓ [39mCheck document upload is  not valid
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 33 of 80 (skipped 4) SUCCESS (0 secs / 5.769 secs)
+    template handling test suite
+      [32m✓ [39mshould show template
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 34 of 80 (skipped 4) SUCCESS (0 secs / 5.784 secs)
+      [32m✓ [39mshould  show template
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 35 of 80 (skipped 4) SUCCESS (0 secs / 5.801 secs)
+      [32m✓ [39mshould show template for GOSI-ONLINE
+[1A[2KWARN: 'Spec 'AddContributorScComponent setIsAbroad Set Abroad ' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 35 of 80 (skipped 4) SUCCESS (0 secs / 5.801 secs)
+WARN: 'Spec 'AddContributorScComponent setIsAbroad Set Abroad ' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent setIsAbroad Set Abroad ' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 36 of 80 (skipped 4) SUCCESS (0 secs / 5.843 secs)
+    setIsAbroad
+      [32m✓ [39mSet Abroad 
+[1A[2KWARN: 'Spec 'AddContributorScComponent searchNin Should search NIN ' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 36 of 80 (skipped 4) SUCCESS (0 secs / 5.843 secs)
+WARN: 'Spec 'AddContributorScComponent searchNin Should search NIN ' has no expectations.'
+WARN LOG: [36m'Spec 'AddContributorScComponent searchNin Should search NIN ' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 37 of 80 (skipped 4) SUCCESS (0 secs / 5.889 secs)
+    searchNin
+      [32m✓ [39mShould search NIN 
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 38 of 80 (skipped 4) SUCCESS (0 secs / 5.927 secs)
+
+  ContributorService
+    cancelAddedContributor
+      [32m✓ [39mShould cancel added contributor
+[1A[2KWARN: 'Spec 'ContributorService setPersonalInformations Should set personal information' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 38 of 80 (skipped 4) SUCCESS (0 secs / 5.927 secs)
+WARN: 'Spec 'ContributorService setPersonalInformations Should set personal information' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService setPersonalInformations Should set personal information' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 39 of 80 (skipped 4) SUCCESS (0 secs / 5.933 secs)
+    setPersonalInformations
+      [32m✓ [39mShould set personal information
+[1A[2KWARN: 'Spec 'ContributorService submit Uploaded Documents should update bpm task' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 39 of 80 (skipped 4) SUCCESS (0 secs / 5.933 secs)
+WARN: 'Spec 'ContributorService submit Uploaded Documents should update bpm task' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService submit Uploaded Documents should update bpm task' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 40 of 80 (skipped 4) SUCCESS (0 secs / 5.969 secs)
+    submit Uploaded Documents
+      [32m✓ [39mshould update bpm task
+[1A[2KWARN: 'Spec 'ContributorService submit Uploaded Documents Should update the employee details' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 40 of 80 (skipped 4) SUCCESS (0 secs / 5.969 secs)
+WARN: 'Spec 'ContributorService submit Uploaded Documents Should update the employee details' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService submit Uploaded Documents Should update the employee details' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 41 of 80 (skipped 4) SUCCESS (0 secs / 5.976 secs)
+      [32m✓ [39mShould update the employee details
+[1A[2KWARN: 'Spec 'ContributorService setRequiredDocuments Should set required documents' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 41 of 80 (skipped 4) SUCCESS (0 secs / 5.976 secs)
+WARN: 'Spec 'ContributorService setRequiredDocuments Should set required documents' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService setRequiredDocuments Should set required documents' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 42 of 80 (skipped 4) SUCCESS (0 secs / 6.011 secs)
+    setRequiredDocuments
+      [32m✓ [39mShould set required documents
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 43 of 80 (skipped 4) SUCCESS (0 secs / 6.018 secs)
+    Update Employee Details
+      [32m✓ [39mShould update the employee details
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 44 of 80 (skipped 4) SUCCESS (0 secs / 6.053 secs)
+    getMaximumWageAndEligibleJoiningDate Contributor
+      [32m✓ [39mShould get Maximum Wage and Eligible Joining Date
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 45 of 80 (skipped 4) SUCCESS (0 secs / 6.059 secs)
+    Save Employee Details
+      [32m✓ [39mShould save the employee details
+[1A[2KWARN: 'Spec 'ContributorService setResponse Should set Response' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 45 of 80 (skipped 4) SUCCESS (0 secs / 6.059 secs)
+WARN: 'Spec 'ContributorService setResponse Should set Response' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService setResponse Should set Response' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 46 of 80 (skipped 4) SUCCESS (0 secs / 6.069 secs)
+    setResponse
+      [32m✓ [39mShould set Response
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 47 of 80 (skipped 4) SUCCESS (0 secs / 6.107 secs)
+    Save Contributor
+      [32m✓ [39mShould save the contributor details
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 48 of 80 (skipped 4) SUCCESS (0 secs / 6.114 secs)
+    setPersonAddressDetails
+      [32m✓ [39mShould set Personal Address information
+[1A[2KWARN: 'Spec 'ContributorService searchNonSaudi Should search Non Saudi' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 48 of 80 (skipped 4) SUCCESS (0 secs / 6.114 secs)
+WARN: 'Spec 'ContributorService searchNonSaudi Should search Non Saudi' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService searchNonSaudi Should search Non Saudi' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 49 of 80 (skipped 4) SUCCESS (0 secs / 6.15 secs)
+    searchNonSaudi
+      [32m✓ [39mShould search Non Saudi
+[1A[2KWARN: 'Spec 'ContributorService patchPersonalInformation Should patch personal information' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 49 of 80 (skipped 4) SUCCESS (0 secs / 6.15 secs)
+WARN: 'Spec 'ContributorService patchPersonalInformation Should patch personal information' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService patchPersonalInformation Should patch personal information' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 50 of 80 (skipped 4) SUCCESS (0 secs / 6.164 secs)
+    patchPersonalInformation
+      [32m✓ [39mShould patch personal information
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 51 of 80 (skipped 4) SUCCESS (0 secs / 6.199 secs)
+    searchNIN
+      [32m✓ [39mTo test search NIN with valid values
+[1A[2KWARN: 'Spec 'ContributorService setPersonContactDetails Should set Pesonal Contact Information' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 51 of 80 (skipped 4) SUCCESS (0 secs / 6.199 secs)
+WARN: 'Spec 'ContributorService setPersonContactDetails Should set Pesonal Contact Information' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService setPersonContactDetails Should set Pesonal Contact Information' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 52 of 80 (skipped 4) SUCCESS (0 secs / 6.232 secs)
+    setPersonContactDetails
+      [32m✓ [39mShould set Pesonal Contact Information
+[1A[2KWARN: 'Spec 'ContributorService getRegistrationNumber Should search Registration Number' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 52 of 80 (skipped 4) SUCCESS (0 secs / 6.232 secs)
+WARN: 'Spec 'ContributorService getRegistrationNumber Should search Registration Number' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService getRegistrationNumber Should search Registration Number' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 53 of 80 (skipped 4) SUCCESS (0 secs / 6.238 secs)
+    getRegistrationNumber
+      [32m✓ [39mShould search Registration Number
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 54 of 80 (skipped 4) SUCCESS (0 secs / 6.273 secs)
+    patchEditAdminInformation
+      [32m✓ [39mShould patch Edit Admin Information
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 55 of 80 (skipped 4) SUCCESS (0 secs / 6.28 secs)
+    getSIN
+      [32m✓ [39mShould get SIN
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 56 of 80 (skipped 4) SUCCESS (0 secs / 6.313 secs)
+    [32m✓ [39mShould create AddContributorService
+[1A[2KWARN: 'Spec 'ContributorService should throw an error' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 56 of 80 (skipped 4) SUCCESS (0 secs / 6.313 secs)
+WARN: 'Spec 'ContributorService should throw an error' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService should throw an error' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 57 of 80 (skipped 4) SUCCESS (0 secs / 6.319 secs)
+    [32m✓ [39mshould throw an error
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 58 of 80 (skipped 4) SUCCESS (0 secs / 6.354 secs)
+    cancelAddedEngagement
+      [32m✓ [39mto  cancel AddedEngagement details
+[1A[2KWARN: 'Spec 'ContributorService searchGCC Should search GCC' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 58 of 80 (skipped 4) SUCCESS (0 secs / 6.354 secs)
+WARN: 'Spec 'ContributorService searchGCC Should search GCC' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService searchGCC Should search GCC' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 59 of 80 (skipped 4) SUCCESS (0 secs / 6.359 secs)
+    searchGCC
+      [32m✓ [39mShould search GCC
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 60 of 80 (skipped 4) SUCCESS (0 secs / 6.395 secs)
+    searchImmigratedTribes
+      [32m✓ [39mShould search Immigrated Tribes
+[1A[2KWARN: 'Spec 'ContributorService should throw an error' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 60 of 80 (skipped 4) SUCCESS (0 secs / 6.395 secs)
+WARN: 'Spec 'ContributorService should throw an error' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService should throw an error' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 61 of 80 (skipped 4) SUCCESS (0 secs / 6.402 secs)
+    [32m✓ [39mshould throw an error
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 62 of 80 (skipped 4) SUCCESS (0 secs / 6.436 secs)
+    getWizardItems
+      [32m✓ [39mShould get Wizard Items
+[1A[2KWARN: 'Spec 'ContributorService getDoccumentUpload Should get Doccument Upload' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 62 of 80 (skipped 4) SUCCESS (0 secs / 6.436 secs)
+WARN: 'Spec 'ContributorService getDoccumentUpload Should get Doccument Upload' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService getDoccumentUpload Should get Doccument Upload' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 63 of 80 (skipped 4) SUCCESS (0 secs / 6.443 secs)
+    getDoccumentUpload
+      [32m✓ [39mShould get Doccument Upload
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 64 of 80 (skipped 4) SUCCESS (0 secs / 6.479 secs)
+    getEstablishment
+      [32m✓ [39mto get establishment details
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 65 of 80 (skipped 4) SUCCESS (0 secs / 6.514 secs)
+    getAllEngagementPeriod
+      [32m✓ [39mShould get All Engagement Period
+[1A[2KWARN: 'Spec 'ContributorService setEmployeeWageDetails Should set Employee Wage details' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 65 of 80 (skipped 4) SUCCESS (0 secs / 6.514 secs)
+WARN: 'Spec 'ContributorService setEmployeeWageDetails Should set Employee Wage details' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService setEmployeeWageDetails Should set Employee Wage details' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 66 of 80 (skipped 4) SUCCESS (0 secs / 6.52 secs)
+    setEmployeeWageDetails
+      [32m✓ [39mShould set Employee Wage details
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 67 of 80 (skipped 4) SUCCESS (0 secs / 6.553 secs)
+    getEngagmentDetails
+      [32m✓ [39mShould get Engagment Details
+[1A[2KWARN: 'Spec 'ContributorService getContributor Should get Contributor' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 67 of 80 (skipped 4) SUCCESS (0 secs / 6.553 secs)
+WARN: 'Spec 'ContributorService getContributor Should get Contributor' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService getContributor Should get Contributor' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 68 of 80 (skipped 4) SUCCESS (0 secs / 6.56 secs)
+    getContributor
+      [32m✓ [39mShould get Contributor
+[1A[2KWARN: 'Spec 'ContributorService setEmployeeDetails Should set Employee details' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 68 of 80 (skipped 4) SUCCESS (0 secs / 6.56 secs)
+WARN: 'Spec 'ContributorService setEmployeeDetails Should set Employee details' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService setEmployeeDetails Should set Employee details' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 69 of 80 (skipped 4) SUCCESS (0 secs / 6.592 secs)
+    setEmployeeDetails
+      [32m✓ [39mShould set Employee details
+[1A[2KWARN: 'Spec 'ContributorService should throw an error' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 69 of 80 (skipped 4) SUCCESS (0 secs / 6.592 secs)
+WARN: 'Spec 'ContributorService should throw an error' has no expectations.'
+WARN LOG: [36m'Spec 'ContributorService should throw an error' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 70 of 80 (skipped 4) SUCCESS (0 secs / 6.598 secs)
+    [32m✓ [39mshould throw an error
+[1A[2KWARN: 'Spec 'ProactiveContributorScComponent showFormValidation should show Form Validation' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 70 of 80 (skipped 4) SUCCESS (0 secs / 6.598 secs)
+WARN: 'Spec 'ProactiveContributorScComponent showFormValidation should show Form Validation' has no expectations.'
+WARN LOG: [36m'Spec 'ProactiveContributorScComponent showFormValidation should show Form Validation' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 71 of 80 (skipped 4) SUCCESS (0 secs / 6.75 secs)
+
+  ProactiveContributorScComponent
+    showFormValidation
+      [32m✓ [39mshould show Form Validation
+[1A[2KWARN: 'Spec 'ProactiveContributorScComponent should throw an error' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 71 of 80 (skipped 4) SUCCESS (0 secs / 6.75 secs)
+WARN: 'Spec 'ProactiveContributorScComponent should throw an error' has no expectations.'
+WARN LOG: [36m'Spec 'ProactiveContributorScComponent should throw an error' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 72 of 80 (skipped 4) SUCCESS (0 secs / 6.818 secs)
+    [32m✓ [39mshould throw an error
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 73 of 80 (skipped 4) SUCCESS (0 secs / 6.853 secs)
+    getEngagmentDetails
+      [32m✓ [39m Should fetch engagement details
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 74 of 80 (skipped 4) SUCCESS (0 secs / 6.926 secs)
+    saveProactiveContributor
+      [32m✓ [39mfor saveProactiveContributor
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 75 of 80 (skipped 4) SUCCESS (0 secs / 6.959 secs)
+    ngOnInt
+      [32m✓ [39mshould initialise the component
+[1A[2KWARN: 'Spec 'ProactiveContributorScComponent should throw an error' has no expectations.'
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 75 of 80 (skipped 4) SUCCESS (0 secs / 6.959 secs)
+WARN: 'Spec 'ProactiveContributorScComponent should throw an error' has no expectations.'
+WARN LOG: [36m'Spec 'ProactiveContributorScComponent should throw an error' has no expectations.'[39m
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 76 of 80 (skipped 4) SUCCESS (0 secs / 7.018 secs)
+    [32m✓ [39mshould throw an error
+[1A[2KPhantomJS 2.1.1 (Linux 0.0.0): Executed 76 of 80 (skipped 4) SUCCESS (2.973 secs / 7.018 secs)
+TOTAL: 76 SUCCESS
+TOTAL: 76 SUCCESS
+
+PhantomJS 2.1.1 (Linux 0.0.0): Executed 76 of 80 (skipped 4)[32m SUCCESS[39m (2.973 secs / 7.018 secs)
+[32mTOTAL: 76 SUCCESS[39m
+
+TOTAL: 76 SUCCESS
+
+———————————————————————————————————————————————
+
+>  NX   SUCCESS  Running target "test" succeeded
+
+
+[Pipeline] }
+[Pipeline] // dir
+[Pipeline] }
+[Pipeline] // script
+[Pipeline] }
+[Pipeline] // nodejs
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (SonarQube analysis & Quality Gate)
+[Pipeline] nodejs
+[Pipeline] {
+[Pipeline] script
+[Pipeline] {
+[Pipeline] withSonarQubeEnv
+Injecting SonarQube environment variables using the configuration: SonarQube
+[Pipeline] {
+[Pipeline] sh
++ /opt/sonar-scanner-3.2.0.1227-linux/bin/sonar-scanner -Dsonar.projectVersion=156 -Dsonar.projectKey=sa.gov.gosi.si:gosi-ui -Dsonar.sourceEncoding=UTF-8 -Dsonar.sources=gosi-ui/apps/establishment-public,gosi-ui/apps/establishment-private,gosi-ui/libs -Dsonar.tests=gosi-ui/apps/establishment-public/src,gosi-ui/apps/establishment-private/src,gosi-ui/libs/core/src,gosi-ui/libs/foundation/theme/src,gosi-ui/libs/foundation/dashboard/src,gosi-ui/libs/foundation/inbox/src,gosi-ui/libs/foundation/transaction-tracing/src,gosi-ui/libs/features/registration/contributor/src,gosi-ui/libs/features/collection/billing/src,gosi-ui/libs/features/customer-information/src,gosi-ui/libs/features/occupational-hazard/src,gosi-ui/libs/features/contributor/src,gosi-ui/libs/features/establishment/src '-Dsonar.test.inclusions=gosi-ui/apps/**/*.spec.ts,gosi-ui/libs/**/*.spec.ts' -Dsonar.testExecutionReportPaths=gosi-ui/reports/libs/core/ut-report.xml,gosi-ui/reports/libs/foundation/theme/ut-report.xml,gosi-ui/reports/libs/foundation/inbox/ut-report.xml,gosi-ui/reports/libs/foundation/dashboard/ut-report.xml,gosi-ui/reports/libs/foundation/transaction-tracing/ut-report.xml,gosi-ui/reports/libs/features/registration/contributor/ut-report.xml,gosi-ui/reports/libs/features/collection/billing/ut-report.xml,gosi-ui/reports/libs/features/customer-information/ut-report.xml,gosi-ui/reports/libs/features/occupational-hazard/ut-report.xml,gosi-ui/reports/libs/features/contributor/ut-report.xml,gosi-ui/reports/libs/features/establishment/ut-report.xml -Dsonar.typescript.tslint.reportPaths=gosi-ui/code-smells/establishment-public.json,gosi-ui/code-smells/establishment-private.json,gosi-ui/code-smells/core.json,gosi-ui/code-smells/foundation-theme.json,gosi-ui/code-smells/foundation-inbox.json,gosi-ui/code-smells/foundation-dashboard.json,gosi-ui/code-smells/foundation-transaction-tracing.json,gosi-ui/code-smells/features-customer-information.json,gosi-ui/code-smells/features-collection-billing.json,gosi-ui/code-smells/features-registration-contributor.json,gosi-ui/code-smells/features-occupational-hazard.json,gosi-ui/code-smells/features-establishment.json,gosi-ui/code-smells/features-contributor.json -Dsonar.typescript.lcov.reportPaths=gosi-ui/coverage/libs/core/lcov.info,gosi-ui/coverage/libs/foundation/theme/lcov.info,gosi-ui/coverage/libs/foundation/dashboard/lcov.info,gosi-ui/coverage/libs/foundation/inbox/lcov.info,gosi-ui/coverage/libs/foundation/transaction-tracing/lcov.info,gosi-ui/coverage/libs/features/registration/contributor/lcov.info,gosi-ui/coverage/libs/features/collection/billing/lcov.info,gosi-ui/coverage/libs/features/customer-information/lcov.info,gosi-ui/coverage/libs/features/occupational-hazard/lcov.info,gosi-ui/coverage/libs/features/contributor/lcov.info,gosi-ui/coverage/libs/features/establishment/lcov.info -Dsonar.typescript.tsconfigPath=gosi-ui/tsconfig.json -Dsonar.projectBaseDir=. -Dsonar.branch.name=feature_277264
+INFO: Scanner configuration file: /opt/sonar-scanner-3.2.0.1227-linux/conf/sonar-scanner.properties
+INFO: Project root configuration file: NONE
+INFO: SonarQube Scanner 3.2.0.1227
+INFO: Java 1.8.0_121 Oracle Corporation (64-bit)
+INFO: Linux 4.1.12-94.3.9.el7uek.x86_64 amd64
+INFO: User cache: /home/arcosuser2/.sonar/cache
+INFO: SonarQube server 8.3.1
+INFO: Default locale: "en_US", source code encoding: "UTF-8"
+WARN: SonarScanner will require Java 11 to run starting in SonarQube 8.x
+INFO: Load global settings
+INFO: Load global settings (done) | time=176ms
+INFO: Server id: 6CDBE852-AWabjFJnZ7WAZUCgUVtL
+INFO: User cache: /home/arcosuser2/.sonar/cache
+INFO: Load/download plugins
+INFO: Load plugins index
+INFO: Load plugins index (done) | time=67ms
+INFO: Load/download plugins (done) | time=240ms
+INFO: Loaded core extensions: developer-scanner
+INFO: Process project properties
+INFO: Process project properties (done) | time=13ms
+INFO: Execute project builders
+INFO: Execute project builders (done) | time=12ms
+INFO: Project key: sa.gov.gosi.si:gosi-ui
+INFO: Base dir: /u01/app/jenkinsagent/workspace/cial-insurance-ui_feature_277264
+INFO: Working dir: /u01/app/jenkinsagent/workspace/cial-insurance-ui_feature_277264/.scannerwork
+INFO: Load project settings for component key: 'sa.gov.gosi.si:gosi-ui'
+INFO: Load project settings for component key: 'sa.gov.gosi.si:gosi-ui' (done) | time=55ms
+INFO: Load project branches
+INFO: Load project branches (done) | time=136ms
+INFO: Load project pull requests
+INFO: Load project pull requests (done) | time=15ms
+INFO: Load branch configuration
+INFO: Found manual configuration of branch/PR analysis. Skipping automatic configuration.
+INFO: Load branch configuration (done) | time=3ms
+INFO: Load quality profiles
+INFO: Load quality profiles (done) | time=57ms
+INFO: Auto-configuring with CI 'Jenkins'
+INFO: Load active rules
+INFO: Load active rules (done) | time=1109ms
+INFO: Branch name: feature_277264
+WARN: Property 'sonar.odm.file.suffixes' is not declared as multi-values/property set but was read using 'getStringArray' method. The SonarQube plugin declaring this property should be updated.
+WARN: Property 'sonar.bpm.file.suffixes' is not declared as multi-values/property set but was read using 'getStringArray' method. The SonarQube plugin declaring this property should be updated.
+INFO: Indexing files...
+INFO: Project configuration:
+INFO:   Excluded sources: **/target/generated-sources/**/*, **/src/**/AmeenCommandLineJobRunner.java, **/target/**/*, **/target/surefire-reports/**/*, **/aop-ajc.xml, **/pom.xml, **/weblogic.xml, **/logback-test.xml, **/logback.xml, **/*.sql, **/groovy/demo/*.groovy, **/cloc.xml, **/src/test/Test.xml, **/vendors/**/*, gosi-ui/apps/**/*.spec.ts, gosi-ui/libs/**/*.spec.ts
+INFO:   Included tests: gosi-ui/apps/**/*.spec.ts, gosi-ui/libs/**/*.spec.ts
+INFO:   Excluded tests: **/*.sql
+INFO:   Excluded sources for coverage: gosi-framework/src/**/*, **/*Application.java, **/src/test/**/*, **/test-data.ts, **/report/**/*, **/index.ts, **/environments/**/*, **/*module.ts, **/*.js, **/*.scss, **/utils/**/*, **/*-dc*.ts, **/*constants*.ts, **/*models/*.ts, **/widgets/**/*, **/validators/**/*, **/constants/**/*, **/tokens/**/*, **/pipes/**/*, **/directives/**/*, **/vo/**/*, **/enums/**/*.java, **/config/**/*, **/*Entity.java, **/*Dto.java, **/dto/*.java, **/*pom.xml, **/domain/**/*.java, **/*test*.ts, **/*main*.ts, **/*mock-*.ts, **/guards/**/*, **/interceptors/**/*, **/*Configuration.java, **/*Listener.java, **/event/**/*, **/RevisionUtils.java, **/*Vo.java, **/*.sql, **/enums/*.ts, **/enums/**/*.ts, **/app-shell/**/*, **/test-data/**/*, **/callback-sc/**/*, **/input-base-component.ts, **/utils/*.ts
+INFO:   Excluded sources for duplication: **/*Configuration.java, **/dto/*.java, **/*Dto.java, **/*Entity.java, **/src/test/**/*, **/target/**/*, **/test-data.ts, **/*test-data/*.ts, **/apps/**/*.ts, **/*models/*.ts, **/*mock-*.ts, **/*constants/**/*.ts, **/*.sql, Test Suites/Execute*.groovy, **/scripts/groovy/sa/**/*.groovy, **Scripts/**/*.groovy, **/oauth2/callback/welcome-index.html, **/widgets/**/*.html, **registration/contributor/**/*
+INFO: Load project repositories
+INFO: Load project repositories (done) | time=531ms
+INFO: 2767 files indexed
+INFO: 2607 files ignored because of inclusion/exclusion patterns
+INFO: Quality profile for css: Sonar way all test
+INFO: Quality profile for js: Sonar way Recommended
+INFO: Quality profile for odm: Ameen
+INFO: Quality profile for ts: Ameen-TypeSript
+INFO: Quality profile for web: Sonar way 2
+INFO: ------------- Run sensors on module sa.gov.gosi.si:gosi-ui
+INFO: Load metrics repository
+INFO: Load metrics repository (done) | time=49ms
+INFO: Sensor SonarCSS Metrics [cssfamily]
+INFO: Sensor SonarCSS Metrics [cssfamily] (done) | time=741ms
+INFO: Sensor SonarCSS Rules [cssfamily]
+INFO: 929 source files to be analyzed
+INFO: 885/929 files analyzed, current file: gosi-ui/libs/features/establishment/src/lib/shared/components/branch-item-dc/branch-item-dc.component.scss
+INFO: 929/929 source files have been analyzed
+INFO: Sensor SonarCSS Rules [cssfamily] (done) | time=11773ms
+INFO: Sensor HTML [web]
+INFO: Sensor HTML [web] (done) | time=1961ms
+INFO: Sensor SonarTS [typescript]
+INFO: Since SonarTS v2.0, TypeScript analysis is performed by SonarJS analyzer v6.0 or later. No TypeScript analysis is performed by SonarTS.
+INFO: Sensor SonarTS [typescript] (done) | time=0ms
+INFO: Sensor Compute unit tests from json [odmcustomplugin]
+INFO: ------------------------------------------------------------------------
+INFO: EXECUTION FAILURE
+INFO: ------------------------------------------------------------------------
+INFO: Total time: 27.361s
+INFO: Final Memory: 45M/1325M
+INFO: ------------------------------------------------------------------------
+ERROR: Error during SonarQube Scanner execution
+ERROR: Analysis cancelled
+ERROR: Caused by: Expecting '{' on line 1, column 2 instead, obtained token: 'Token: ['
+ERROR: 
+ERROR: Re-run SonarQube Scanner using the -X switch to enable full debug logging.
+[Pipeline] }
+WARN: Unable to locate 'report-task.txt' in the workspace. Did the SonarScanner succeeded?
+[Pipeline] // withSonarQubeEnv
+[Pipeline] }
+[Pipeline] // script
+[Pipeline] }
+[Pipeline] // nodejs
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Nexus policy Evaluation)
+Stage "Nexus policy Evaluation" skipped due to earlier failure(s)
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Feature CI - Build)
+Stage "Feature CI - Build" skipped due to earlier failure(s)
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Server CI - Build)
+Stage "Server CI - Build" skipped due to earlier failure(s)
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Release - Build)
+Stage "Release - Build" skipped due to earlier failure(s)
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Versioning)
+Stage "Versioning" skipped due to earlier failure(s)
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Zipping)
+Stage "Zipping" skipped due to earlier failure(s)
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Feature CI - UCD Publish & Deploy)
+Stage "Feature CI - UCD Publish & Deploy" skipped due to earlier failure(s)
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Server CI - UCD Publish)
+Stage "Server CI - UCD Publish" skipped due to earlier failure(s)
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Server CI-UCD Private Publish)
+Stage "Server CI-UCD Private Publish" skipped due to earlier failure(s)
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Server CI-UCD Public Publish)
+Stage "Server CI-UCD Public Publish" skipped due to earlier failure(s)
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Release - UCD Private Publish)
+Stage "Release - UCD Private Publish" skipped due to earlier failure(s)
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Release - UCD Public Publish)
+Stage "Release - UCD Public Publish" skipped due to earlier failure(s)
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Triggering Server CI Deployment)
+Stage "Triggering Server CI Deployment" skipped due to earlier failure(s)
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Declarative: Post Actions)
+[Pipeline] cleanWs
+[WS-CLEANUP] Deleting project workspace...
+[WS-CLEANUP] Deferred wipeout is used...
+[WS-CLEANUP] done
+[Pipeline] script
+[Pipeline] {
+[Pipeline] }
+[Pipeline] // script
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // withEnv
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+[INFO]
+[INFO] -----------------------------------------------------
+[INFO] Global Post Script
+[INFO] -----------------------------------------------------
+Job Name-Ameen/social-insurance-ui/feature_277264
+Branch Name-feature_277264
+Build Result-FAILURE
+Ameen/social-insurance-ui Component
+Ameen/social-insurance-ui Component
+[INFO] -----------------------------------------------------
+ERROR: script returned exit code 1
+Finished: FAILURE
+Page generated:
+Aug 10, 2020 12:31:45 PM AST
+REST API
+Jenkins 2.235.3
